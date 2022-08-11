@@ -6,13 +6,23 @@ body{
     margin: 0;
 }
 
-header{
+.stylishTitleBar{
     background-color: navy;
     color:cornsilk;
     text-align: center;
+    border-style: double;
+    border-width: 15px;
+    border-radius: 30px;
 }
 
-main{
+.killerInfoSec{
     background-color: lightgray;
     padding: 1em;
+    border-style: groove;
+    border-width: 10px;
+}
+
+.sickFonts{
+    font-family:fantasy;
+    font-weight: bolder;
 }
